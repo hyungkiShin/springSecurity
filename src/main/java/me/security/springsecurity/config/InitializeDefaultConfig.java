@@ -1,10 +1,9 @@
 package me.security.springsecurity.config;
 
 import lombok.RequiredArgsConstructor;
-import me.benny.practice.spring.security.note.NoteService;
-import me.benny.practice.spring.security.notice.NoticeService;
-import me.benny.practice.spring.security.user.User;
-import me.benny.practice.spring.security.user.UserService;
+import me.security.springsecurity.note.NoteService;
+import me.security.springsecurity.notice.NoticeService;
+import me.security.springsecurity.user.User;
 import me.security.springsecurity.user.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
